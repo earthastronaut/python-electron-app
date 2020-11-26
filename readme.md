@@ -1,9 +1,16 @@
-## Electron with Python
+# Electron 💛  Python
 
-Very Simple Flask Python App with Electron GUI so you can write Python server for an Electron app.
+Example of running a Flask server within the Electron GUI for a desktop interface.
 
-You can read this [Electron/Flask Python tutorial](https://www.techiediaries.com/flask-electron-tutorial/) for more information
+Based on this [Electron/Flask Python tutorial](https://www.techiediaries.com/flask-electron-tutorial/) for more information
 
 ![Electron Python](/docs/images/index.png)
 
 ![Electron Python](/docs/images/flask.png)
+
+## Install
+
+```
+npm install
+npm start
+```
