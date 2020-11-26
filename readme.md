@@ -1,11 +1,9 @@
 ## Electron with Python
 
-Very Simple Python App with Electron GUI which demonstrates Python/Node.js-Electron Communication.
+Very Simple Flask Python App with Electron GUI so you can write Python server for an Electron app.
 
 You can read this [Electron/Flask Python tutorial](https://www.techiediaries.com/flask-electron-tutorial/) for more information
 
-![Electron Python](https://i.imgur.com/bM6cJR3.png)
+![Electron Python](/docs/images/index.png)
 
-![Electron Python](https://i.imgur.com/ytib7jt.png)
-
- 
+![Electron Python](/docs/images/flask.png)
