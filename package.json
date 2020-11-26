@@ -15,7 +15,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "electron": "^2.0.8",
-    "python-shell": "^0.5.0"
+    "electron": "^2.0.8"
   }
 }
