@@ -2,6 +2,10 @@
   "name": "electronjs-python",
   "version": "1.0.0",
   "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/earthastronaut/python-electron-app"
+  },
   "main": "main.js",
   "scripts": {
     "start": "electron .",
@@ -10,10 +14,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "electron": "^2.0.8"
-  },
   "dependencies": {
+    "electron": "^2.0.8",
     "python-shell": "^0.5.0"
   }
 }
