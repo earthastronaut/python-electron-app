@@ -14,3 +14,11 @@ Based on this [Electron/Flask Python tutorial](https://www.techiediaries.com/fla
 npm install
 npm start
 ```
+
+# Security!
+
+Your local web server is susceptible to attacks, especially CSRF attacks. You'll need to secure the frontend/backend communication wih a token. 
+
+# Alternatives
+
+Instead of electron there is a python alternative called [pywebview](https://pywebview.flowrl.com/).
