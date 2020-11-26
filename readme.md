@@ -2,7 +2,7 @@
 
 Very Simple Python App with Electron GUI which demonstrates Python/Node.js-Electron Communication.
 
-You can read this [Electron/Python tutorial](https://www.techiediaries.com/python-electron-tutorial) for more information
+You can read this [Electron/Flask Python tutorial](https://www.techiediaries.com/flask-electron-tutorial/) for more information
 
 ![Electron Python](https://i.imgur.com/bM6cJR3.png)
 
